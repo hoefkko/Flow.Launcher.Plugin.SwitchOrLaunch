@@ -1,0 +1,7 @@
+namespace WakaTimeWindowsLogger
+{
+    public class DummyClass
+    {
+        
+    }
+}

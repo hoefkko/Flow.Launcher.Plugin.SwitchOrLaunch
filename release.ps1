@@ -1,0 +1,2 @@
+dotnet publish Flow.Launcher.Plugin.SwitchOrLaunch -c Release -r win-x64 --no-self-contained
+Compress-Archive -LiteralPath Flow.Launcher.Plugin.SwitchOrLaunch/bin/Release/win-x64/publish -DestinationPath Flow.Launcher.Plugin.SwitchOrLaunch/bin/SwitchOrLaunch.zip -Force

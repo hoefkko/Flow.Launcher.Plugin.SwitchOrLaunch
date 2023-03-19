@@ -1,0 +1,12 @@
+{
+    "ID": "41BC8BE1-12F0-4487-89D3-E6EFC98FF3B9",
+    "ActionKeyword": "sl",
+    "Name": "SwitchOrLaunch",
+    "Description": "a plugin to search your open windows, switch to an open window or open a new windows by launching an app",
+    "Author": "hoefkko",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/hoefkko/Flow.Launcher.Plugin.SwitchOrLaunch",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.SwitchOrLaunch.dll"
+}
