@@ -1,4 +1,4 @@
-Flow.Launcher.Plugin.FindWindowOrLaunch
+Flow.Launcher.Plugin.SwitchOrLaunch
 ==================
 
 A plugin for the [Flow launcher](https://github.com/Flow-Launcher/Flow.Launcher).

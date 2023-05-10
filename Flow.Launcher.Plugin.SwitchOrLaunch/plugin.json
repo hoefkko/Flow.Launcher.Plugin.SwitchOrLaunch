@@ -1,0 +1,12 @@
+{
+    "ID": "625D1AE9-8A0C-426D-B336-A3A9DC397A5C",
+    "ActionKeyword": "sl",
+    "Name": "SwitchOrLaunch",
+    "Description": "Open a windows of an application. Of none is found, luanch the application",
+    "Author": "hoefkko",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/hoefkko/Flow.Launcher.Plugin.SwitchOrLaunch",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.SwitchOrLaunch.dll"
+}

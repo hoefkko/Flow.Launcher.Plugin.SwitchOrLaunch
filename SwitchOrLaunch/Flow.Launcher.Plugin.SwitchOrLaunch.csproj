@@ -25,7 +25,18 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Flow.Launcher.Plugin" Version="4.0.0" />
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\ManagedWinapi\ManagedWinapi.csproj">
+      <Private>True</Private>
+    </ProjectReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Flow.Launcher.Plugin">
+      <HintPath>Flow.Launcher.Plugin\Flow.Launcher.Plugin.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
